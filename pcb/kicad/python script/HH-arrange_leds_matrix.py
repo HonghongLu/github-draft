@@ -59,5 +59,6 @@ def arrange_led(name,indst,indend,x,y,pitch_mm,dir=0,rot=0,ox=0,oy=0,visible=Fal
     pcbnew.Refresh()
    
 
-#arrange_led("SK9816",37,100,8,8,5,2,0,50,50,False)
+#arrange_led("SK9816",37,100,8,8,5,2,0,50,50,False) 
+#for SK9816 D37~D100 , 8*8 matrix, pitch 5mm
 
