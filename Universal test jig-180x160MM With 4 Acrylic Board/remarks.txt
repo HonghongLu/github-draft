@@ -1,0 +1,9 @@
+add universal test rig_fdm printing parts drawing
+test jig is from https://www.aliexpress.com/item/1005001779451202.html?gatewayAdapt=glo2nld
+it is 180X160mm pcb universal test jig with 4layer acrylic panels.
+example pcba under test: 10mmX24mm with usb C pcb, pogo pins are 075 types,  test points are 2mm pitch.
+
+all parts are designed with FDM printer.
+I printed the parts in Prusa i3 with 0.15mm setting
+
+For 2mm pitch pogo pins I use 075 type pogo. Due to the printer, the holes for the pogo to go through to contact the pcb may need to drill a little bigger. I used driller 1.5mm. 
